@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\114954\Documents\Unifebe\Estrutura De Dados\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+745817807.index
+1595804184.index

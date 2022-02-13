@@ -1,0 +1,13 @@
+public class Programa {
+
+	public static void main(String[] args) {
+		int x;
+		String w;
+		
+		Quadrado bonito = new Quadrado(2,"Amarelo"); //A palavra new instância um objeto
+		
+		bonito.calculaArea();
+		bonito.calculePerimetro();
+	}
+
+}

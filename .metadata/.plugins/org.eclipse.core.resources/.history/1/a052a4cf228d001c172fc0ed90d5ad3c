@@ -1,0 +1,8 @@
+public class Linha {
+	 
+	public String pula(){
+		String pulaLinha;
+		pulaLinha= System.out.println("\n");
+	}
+	
+}
