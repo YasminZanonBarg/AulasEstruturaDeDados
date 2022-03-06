@@ -1,0 +1,15 @@
+public class Lifo {
+
+	private Nodo topo;
+
+	public Lifo() {
+		topo = null;
+	}
+
+	public void inserir(int num) {
+		Nodo aux;
+		aux = new Nodo(num);
+		aux.vizinho = topo;
+		topo = aux;
+	}
+}

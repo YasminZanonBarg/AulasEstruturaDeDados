@@ -1,0 +1,8 @@
+
+public class Lifo {
+
+	public Lifo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
